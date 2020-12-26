@@ -1,3 +1,4 @@
+// test
 #define NAMELENGTH 70
 #define TCLENGTH 20 // 티켓과 객실 정보를 담을 char string의 길이
 #include <stdio.h>
